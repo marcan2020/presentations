@@ -1,5 +1,11 @@
 # presentations
 
+## Open TR (Été 2019)
+
+[Êtes-vous cybersécuritaire?](https://github.com/marcan2020/presentations/raw/master/OpenTR%202019.pdf)
+
+https://opentr.ca/evenement/reflechir-autrement/
+
 ## ShawiSec 0x02
 [ShawiSec 2019.pdf](https://github.com/marcan2020/presentations/raw/master/ShawiSec%202019.pdf)
 
